@@ -41,8 +41,8 @@
 ![4](https://user-images.githubusercontent.com/50074691/120068480-93f08c80-c089-11eb-9099-94abc80906e1.jpg)
 
 Сохраним и выйдем из редактора
-Запустим программу из терминала в фоновом режиме: [root@localgost dimausenko]# python sl.py & 
-5. Выведем листинг характеристик процессов root@localgost dimausenko]# ps -f
+Запустим программу из терминала в фоновом режиме: [root@localgost Timur]# python sl.py & 
+5. Выведем листинг характеристик процессов root@localgost Timur]# ps -f
 
 ![5](https://user-images.githubusercontent.com/50074691/120068483-98b54080-c089-11eb-8d12-abcd253e9055.jpg)
 
